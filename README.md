@@ -9,7 +9,7 @@ The separation of train-test datasets; K-Means clustering and analysis
 A visual representation of client categories that are clustered
 
 Roles and Members of the Team:
-Project manager and business analyst Sagar BK; business analyst Rupal Sandha; predictive model analyst Samundra Giri; clustering data analyst Amrita Katuwal; and data engineer Suruchi Yadav
+Project manager and business analyst Sagar BK; predictive model analyst Samundra Giri; clustering data analyst Amrita Katuwal; and data engineer Suruchi Yadav
 
 Utilised Technologies:
 NumPy, Python, Pandas, and Scikit-learn
