@@ -1,4 +1,8 @@
-
+# File: /Users/sagarbk/Desktop/WIL_Project/ann_model_training.py
+# Description: ANN model for telecom customer churn prediction
+# Author: Sagar B K
+# Environment: macOS (Intel MacBook Pro), Python 3.11, TensorFlow 2.x
+# Last Updated: May 2025
 # ann_model_training.py
 
 import pandas as pd
